@@ -1,0 +1,6 @@
+This document instruct what inside the folder and how could you use it.
+
+For general user, you can play this game by run MainGame.py . if you having dependency issue, run command "pip install pygame-menu -U" in your terminal may solve the problem.
+You may want start by read the vocabulary sheet, it give you an overview for character and setting of the game. Then you can read GameDialog to understand what happend in each stage. Finally you can read UserManual to know basic operation of the game such as how to move character. You can start the game now :)
+
+For developer, Flowchart may useful for you to understand the workflow of this game. ClassDiagram and TestPlan are also helpful. Good luck :)
